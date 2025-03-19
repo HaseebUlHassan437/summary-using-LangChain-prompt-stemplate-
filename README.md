@@ -21,7 +21,7 @@ A lightweight Streamlit‑powered web app that uses LangChain’s Google Gemini 
 
 ### 1️⃣ Clone & Enter Folder
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/HaseebUlHassan437/summary-using-LangChain-prompt-stemplate-.git>
 cd <repository-folder>
 ```
 
